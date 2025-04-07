@@ -1,0 +1,106 @@
+﻿@page
+@model Courseprogram.Pages.signup.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+
+
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+
+        .topnav .search-container {
+            float: right;
+        }
+
+        .topnav input[type=text] {
+            padding: 6px;
+            margin-top: 8px;
+            font-size: 17px;
+            border: none;
+        }
+
+        .topnav .search-container button {
+            float: right;
+            padding: 6px;
+            margin-top: 6px;
+            margin-right: 10px;
+            background: #ddd;
+            font-size: 10px;
+            border: none;
+            cursor: pointer;
+        }
+
+            .topnav .search-container button:hover {
+                background: #ccc;
+            }
+
+
+        .topnav a, .topnav input[type=text], .topnav .search-container button {
+            float: none;
+            display: block;
+            text-align: left;
+            width: 100%;
+            margin: 0;
+            padding: 10px;
+        }
+
+        .topnav input[type=text] {
+            border: 1px solid #ccc;
+        }
+
+    </style>
+
+
+    <div class="search-container col-4">
+        <form asp-action="Index" method="get" asp-controller="Course">
+            <input type="search" placeholder="Search" name="searchString" class="form-control"> <br />
+            <button type="submit" value="Search" class="btn btn-primary">Search</button>
+        </form>
+    </div>
+
+
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Signup[0].Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Signup[0].password)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Signup) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.password)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
