@@ -1,0 +1,161 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Courseprogram
+build_property.RootNamespace = Courseprogram
+build_property.ProjectDir = D:\SLIIT\Q2\Courseprogram\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\SLIIT\Q2\Courseprogram
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/SLIIT/Q2/Courseprogram/Pages/course/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY291cnNlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SLIIT/Q2/Courseprogram/Pages/course/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY291cnNlXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SLIIT/Q2/Courseprogram/Pages/course/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY291cnNlXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SLIIT/Q2/Courseprogram/Pages/course/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY291cnNlXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SLIIT/Q2/Courseprogram/Pages/course/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY291cnNlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SLIIT/Q2/Courseprogram/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SLIIT/Q2/Courseprogram/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SLIIT/Q2/Courseprogram/Pages/lecture/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcbGVjdHVyZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SLIIT/Q2/Courseprogram/Pages/lecture/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcbGVjdHVyZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SLIIT/Q2/Courseprogram/Pages/lecture/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcbGVjdHVyZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SLIIT/Q2/Courseprogram/Pages/lecture/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcbGVjdHVyZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SLIIT/Q2/Courseprogram/Pages/lecture/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcbGVjdHVyZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SLIIT/Q2/Courseprogram/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SLIIT/Q2/Courseprogram/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SLIIT/Q2/Courseprogram/Pages/signup/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcc2lnbnVwXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SLIIT/Q2/Courseprogram/Pages/signup/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcc2lnbnVwXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SLIIT/Q2/Courseprogram/Pages/signup/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcc2lnbnVwXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SLIIT/Q2/Courseprogram/Pages/signup/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcc2lnbnVwXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SLIIT/Q2/Courseprogram/Pages/signup/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcc2lnbnVwXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SLIIT/Q2/Courseprogram/Pages/student/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcc3R1ZGVudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SLIIT/Q2/Courseprogram/Pages/student/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcc3R1ZGVudFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SLIIT/Q2/Courseprogram/Pages/student/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcc3R1ZGVudFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SLIIT/Q2/Courseprogram/Pages/student/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcc3R1ZGVudFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SLIIT/Q2/Courseprogram/Pages/student/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcc3R1ZGVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SLIIT/Q2/Courseprogram/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SLIIT/Q2/Courseprogram/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SLIIT/Q2/Courseprogram/Views/Courses/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SLIIT/Q2/Courseprogram/Views/Courses/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SLIIT/Q2/Courseprogram/Views/Courses/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SLIIT/Q2/Courseprogram/Views/Courses/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SLIIT/Q2/Courseprogram/Views/Courses/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SLIIT/Q2/Courseprogram/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SLIIT/Q2/Courseprogram/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-6j0i6pfz07
